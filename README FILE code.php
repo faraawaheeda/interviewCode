@@ -1,6 +1,8 @@
 # Student Management System
 
-## Installation Instructions
+create new laravel project
+composer create-project --prefer-dist laravel/laravel student-management
+cd student-management
 
 1. Clone the repository:
     ```bash
