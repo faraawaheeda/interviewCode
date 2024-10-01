@@ -13,7 +13,7 @@
     npm install
     ```
 
-3. Set up your `.env` file with your database credentials.
+3. Set up `.env` file with database credentials.
 
 4. Run migrations
     ```
